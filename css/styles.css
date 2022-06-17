@@ -5,6 +5,9 @@
   --max-width: 1440px;
   --content-width: 1200px;
 }
+html {
+  scroll-behavior: smooth;
+}
 body {
   background-color: var(--background-color);
   color: var(--text);
