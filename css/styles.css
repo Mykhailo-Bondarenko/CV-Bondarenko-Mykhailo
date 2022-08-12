@@ -442,6 +442,8 @@ body {
 .text__subtitle {
   font-size: 24px;
   margin: 0px 0px 20px 0px;
+  padding: 10px;
+  text-align: center;
 }
 .text__button {
   border-radius: 12px;
