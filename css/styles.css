@@ -562,6 +562,9 @@ body {
 }
 
 @media (max-width: 1280px) {
+  .header__menu {
+    width: 90%;
+  }
   .menu__body {
     flex: 1 1 300px;
   }
