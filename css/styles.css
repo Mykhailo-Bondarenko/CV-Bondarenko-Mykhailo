@@ -560,3 +560,15 @@ body {
   color: var(--hover);
   transition: all 0.3s ease 0s;
 }
+
+@media (max-width: 1280px) {
+  .menu__body {
+    flex: 1 1 300px;
+  }
+  .main__hobbies {
+    display: none;
+  }
+  .footer__list {
+    flex: 0 0 500px;
+  }
+}
